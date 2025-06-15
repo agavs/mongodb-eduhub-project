@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb366"
+  },
+  "lessonId": "4ae0f05a-d2ed-4082-854b-55c1b857fa98",
+  "courseId": "40f22f8f-2850-4fce-9d56-f994afc36a21",
+  "title": "Variables and Data Types",
+  "content": "This lesson covers variables and data types with practical examples and exercises.",
+  "duration": 0.58
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb367"
+  },
+  "lessonId": "03cca405-36aa-4fec-a7e0-a8d9b6ad1c2a",
+  "courseId": "40f22f8f-2850-4fce-9d56-f994afc36a21",
+  "title": "Supervised Learning Basics",
+  "content": "This lesson covers supervised learning basics with practical examples and exercises.",
+  "duration": 0.69
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb368"
+  },
+  "lessonId": "4e916ec5-f8e5-4d5a-a31d-b11162f692e0",
+  "courseId": "5c3c812d-c2c5-4ad0-a673-e5c42f0c4660",
+  "title": "Variables and Data Types",
+  "content": "This lesson covers variables and data types with practical examples and exercises.",
+  "duration": 0.44
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb369"
+  },
+  "lessonId": "3b20d7d5-a5fd-4afa-9cbb-f704e2654306",
+  "courseId": "5c3c812d-c2c5-4ad0-a673-e5c42f0c4660",
+  "title": "Supervised Learning Basics",
+  "content": "This lesson covers supervised learning basics with practical examples and exercises.",
+  "duration": 0.89
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb36a"
+  },
+  "lessonId": "60cb121d-9ae1-4503-b697-3dd850009394",
+  "courseId": "e9f86870-bfba-421e-986d-0ee9bbf15583",
+  "title": "Variables and Data Types",
+  "content": "This lesson covers variables and data types with practical examples and exercises.",
+  "duration": 0.07
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb36b"
+  },
+  "lessonId": "03d25b99-15ba-4215-831e-d4ca1d91cc33",
+  "courseId": "e9f86870-bfba-421e-986d-0ee9bbf15583",
+  "title": "Supervised Learning Basics",
+  "content": "This lesson covers supervised learning basics with practical examples and exercises.",
+  "duration": 0.71
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb36c"
+  },
+  "lessonId": "e414449b-cd6a-45f3-a320-bc15af51fd21",
+  "courseId": "e9f86870-bfba-421e-986d-0ee9bbf15583",
+  "title": "HTML and CSS Foundations",
+  "content": "This lesson covers html and css foundations with practical examples and exercises.",
+  "duration": 1.16
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb36d"
+  },
+  "lessonId": "87e78a1d-25bd-4245-9200-4c0610db1f26",
+  "courseId": "e9f86870-bfba-421e-986d-0ee9bbf15583",
+  "title": "Binary Search Trees",
+  "content": "This lesson covers binary search trees with practical examples and exercises.",
+  "duration": 1.94
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb36e"
+  },
+  "lessonId": "8186756b-0187-4274-ab50-f9a31b656e0e",
+  "courseId": "e9f86870-bfba-421e-986d-0ee9bbf15583",
+  "title": "Color Theory in Design",
+  "content": "This lesson covers color theory in design with practical examples and exercises.",
+  "duration": 0.7
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb36f"
+  },
+  "lessonId": "33642ed5-5c4d-48ca-bcf1-3192e5ba9df8",
+  "courseId": "16d1768b-cb54-4487-9d68-a78db8ae1d8d",
+  "title": "Variables and Data Types",
+  "content": "This lesson covers variables and data types with practical examples and exercises.",
+  "duration": 0.38
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb370"
+  },
+  "lessonId": "60975ccc-b10e-4b8e-afe4-5f89802c203d",
+  "courseId": "16d1768b-cb54-4487-9d68-a78db8ae1d8d",
+  "title": "Supervised Learning Basics",
+  "content": "This lesson covers supervised learning basics with practical examples and exercises.",
+  "duration": 0.81
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb371"
+  },
+  "lessonId": "c3342288-d654-46d2-8294-9b6d92a76377",
+  "courseId": "16d1768b-cb54-4487-9d68-a78db8ae1d8d",
+  "title": "HTML and CSS Foundations",
+  "content": "This lesson covers html and css foundations with practical examples and exercises.",
+  "duration": 1.23
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb372"
+  },
+  "lessonId": "992f14a0-4b67-4cab-a54e-a523d8482f2a",
+  "courseId": "16d1768b-cb54-4487-9d68-a78db8ae1d8d",
+  "title": "Binary Search Trees",
+  "content": "This lesson covers binary search trees with practical examples and exercises.",
+  "duration": 1.82
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb373"
+  },
+  "lessonId": "679859da-66ef-4410-8916-60ee5492f856",
+  "courseId": "4fcc690c-e684-4da6-b28f-5cba64cfbc9f",
+  "title": "Variables and Data Types",
+  "content": "This lesson covers variables and data types with practical examples and exercises.",
+  "duration": 1.36
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb374"
+  },
+  "lessonId": "22882b37-4baa-42f4-93e2-7a0ae54c9d79",
+  "courseId": "4fcc690c-e684-4da6-b28f-5cba64cfbc9f",
+  "title": "Supervised Learning Basics",
+  "content": "This lesson covers supervised learning basics with practical examples and exercises.",
+  "duration": 1.34
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb375"
+  },
+  "lessonId": "61bc415f-5bd2-4e29-8bc4-00e1e5531599",
+  "courseId": "4fcc690c-e684-4da6-b28f-5cba64cfbc9f",
+  "title": "HTML and CSS Foundations",
+  "content": "This lesson covers html and css foundations with practical examples and exercises.",
+  "duration": 0.87
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb376"
+  },
+  "lessonId": "530e92e2-2361-4955-a74f-caf644a5bec2",
+  "courseId": "4fcc690c-e684-4da6-b28f-5cba64cfbc9f",
+  "title": "Binary Search Trees",
+  "content": "This lesson covers binary search trees with practical examples and exercises.",
+  "duration": 1.28
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb377"
+  },
+  "lessonId": "b20b1ab6-b1db-45e0-8756-567c4ee42fa8",
+  "courseId": "4fcc690c-e684-4da6-b28f-5cba64cfbc9f",
+  "title": "Color Theory in Design",
+  "content": "This lesson covers color theory in design with practical examples and exercises.",
+  "duration": 1.75
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb378"
+  },
+  "lessonId": "49e1524b-d030-402f-8372-95abd7674b1b",
+  "courseId": "d41dced4-a110-410c-b268-c9251716e0c1",
+  "title": "Variables and Data Types",
+  "content": "This lesson covers variables and data types with practical examples and exercises.",
+  "duration": 0.02
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb379"
+  },
+  "lessonId": "2719699a-e349-4569-8b94-465dc80afeb0",
+  "courseId": "d41dced4-a110-410c-b268-c9251716e0c1",
+  "title": "Supervised Learning Basics",
+  "content": "This lesson covers supervised learning basics with practical examples and exercises.",
+  "duration": 1.47
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb37a"
+  },
+  "lessonId": "743c85a8-2276-4637-8b86-6c90fa7ac147",
+  "courseId": "d41dced4-a110-410c-b268-c9251716e0c1",
+  "title": "HTML and CSS Foundations",
+  "content": "This lesson covers html and css foundations with practical examples and exercises.",
+  "duration": 0.76
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb37b"
+  },
+  "lessonId": "9660ecca-993f-45e0-bcce-235a9f1a29ac",
+  "courseId": "d41dced4-a110-410c-b268-c9251716e0c1",
+  "title": "Binary Search Trees",
+  "content": "This lesson covers binary search trees with practical examples and exercises.",
+  "duration": 1.57
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb37c"
+  },
+  "lessonId": "e0dd9ec1-db93-4e95-9aee-19b0cf616c5c",
+  "courseId": "d41dced4-a110-410c-b268-c9251716e0c1",
+  "title": "Color Theory in Design",
+  "content": "This lesson covers color theory in design with practical examples and exercises.",
+  "duration": 0.29
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb37d"
+  },
+  "lessonId": "788e576d-e19d-4da8-a417-cdbf3653891b",
+  "courseId": "f0c7900f-8c34-4012-957d-cb127305992e",
+  "title": "Variables and Data Types",
+  "content": "This lesson covers variables and data types with practical examples and exercises.",
+  "duration": 1.44
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb37e"
+  },
+  "lessonId": "33e48c5f-2057-4939-9f17-87ebc2268107",
+  "courseId": "f0c7900f-8c34-4012-957d-cb127305992e",
+  "title": "Supervised Learning Basics",
+  "content": "This lesson covers supervised learning basics with practical examples and exercises.",
+  "duration": 0.12
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb37f"
+  },
+  "lessonId": "50706c60-7aca-4d25-98de-7ca05ad67c10",
+  "courseId": "f0c7900f-8c34-4012-957d-cb127305992e",
+  "title": "HTML and CSS Foundations",
+  "content": "This lesson covers html and css foundations with practical examples and exercises.",
+  "duration": 0.29
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb380"
+  },
+  "lessonId": "4814dea6-aa8b-4bc0-b645-3186ebd03dce",
+  "courseId": "f0c7900f-8c34-4012-957d-cb127305992e",
+  "title": "Binary Search Trees",
+  "content": "This lesson covers binary search trees with practical examples and exercises.",
+  "duration": 0.51
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb381"
+  },
+  "lessonId": "335f2b96-24e2-4497-a9a2-cff0ca4a2e69",
+  "courseId": "f0c7900f-8c34-4012-957d-cb127305992e",
+  "title": "Color Theory in Design",
+  "content": "This lesson covers color theory in design with practical examples and exercises.",
+  "duration": 0.23
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb382"
+  },
+  "lessonId": "7433ddb0-5748-4310-b23a-2b2aabedc82b",
+  "courseId": "49dd82df-af24-4d97-934d-df31eb9b5780",
+  "title": "Variables and Data Types",
+  "content": "This lesson covers variables and data types with practical examples and exercises.",
+  "duration": 0.57
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb383"
+  },
+  "lessonId": "90bb2475-a008-45cb-b002-907fddccbce2",
+  "courseId": "49dd82df-af24-4d97-934d-df31eb9b5780",
+  "title": "Supervised Learning Basics",
+  "content": "This lesson covers supervised learning basics with practical examples and exercises.",
+  "duration": 1
+}]

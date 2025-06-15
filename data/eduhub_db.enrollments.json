@@ -1,0 +1,213 @@
+[{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb357"
+  },
+  "enrollmentId": "5fc41ee0-0ce6-4e49-aa07-a1ae651fb00a",
+  "studentId": "0cfe81a2-61e3-41e7-b228-4f7429c5fb66",
+  "courseId": "d41dced4-a110-410c-b268-c9251716e0c1",
+  "enrollmentDate": {
+    "$date": "2025-05-12T00:44:55.000Z"
+  },
+  "progress": 13.32,
+  "completionDate": null
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb358"
+  },
+  "enrollmentId": "12aa9255-61a3-42e4-9ef9-5655bd2492ab",
+  "studentId": "5848c3bc-dbe7-41b5-be98-908cdd9e4f68",
+  "courseId": "49dd82df-af24-4d97-934d-df31eb9b5780",
+  "enrollmentDate": {
+    "$date": "2025-04-04T00:59:32.000Z"
+  },
+  "progress": 66.97,
+  "completionDate": null
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb359"
+  },
+  "enrollmentId": "a8e651fe-ca0a-46c2-83e4-5f897fcce572",
+  "studentId": "5848c3bc-dbe7-41b5-be98-908cdd9e4f68",
+  "courseId": "5c3c812d-c2c5-4ad0-a673-e5c42f0c4660",
+  "enrollmentDate": {
+    "$date": "2025-01-17T22:48:19.000Z"
+  },
+  "progress": 68.76,
+  "completionDate": {
+    "$date": "2025-03-11T02:46:54.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb35a"
+  },
+  "enrollmentId": "a14d5254-a5c1-4379-baea-a496702582f5",
+  "studentId": "4e7c99f9-02fb-4c23-8897-3d8e0ff618f2",
+  "courseId": "16d1768b-cb54-4487-9d68-a78db8ae1d8d",
+  "enrollmentDate": {
+    "$date": "2025-06-11T20:37:02.000Z"
+  },
+  "progress": 51.12,
+  "completionDate": {
+    "$date": "2025-02-15T20:20:06.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb35b"
+  },
+  "enrollmentId": "a4295066-77d1-4499-8375-0935a0d8c643",
+  "studentId": "310fc880-9f82-46c0-9871-13f57bfb7b1d",
+  "courseId": "d41dced4-a110-410c-b268-c9251716e0c1",
+  "enrollmentDate": {
+    "$date": "2025-01-04T02:22:35.000Z"
+  },
+  "progress": 53.52,
+  "completionDate": {
+    "$date": "2025-05-17T00:43:06.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb35c"
+  },
+  "enrollmentId": "876a2ac9-a4ce-461e-b192-cf5978527905",
+  "studentId": "abbd36c4-e2ec-4d1f-80fd-40c1dcf6b722",
+  "courseId": "16d1768b-cb54-4487-9d68-a78db8ae1d8d",
+  "enrollmentDate": {
+    "$date": "2025-04-03T01:31:06.000Z"
+  },
+  "progress": 71.69,
+  "completionDate": {
+    "$date": "2025-05-27T09:54:28.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb35d"
+  },
+  "enrollmentId": "be9fa698-8626-4b48-a32b-585af61e8505",
+  "studentId": "b1305534-e00a-4a2b-b63d-0e8aa260f846",
+  "courseId": "f0c7900f-8c34-4012-957d-cb127305992e",
+  "enrollmentDate": {
+    "$date": "2025-03-21T05:24:04.000Z"
+  },
+  "progress": 98.95,
+  "completionDate": null
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb35e"
+  },
+  "enrollmentId": "37c518a3-11a5-4758-9101-88797a625582",
+  "studentId": "5ef2d593-7b3f-481a-85b8-af3dfdaee1c7",
+  "courseId": "d41dced4-a110-410c-b268-c9251716e0c1",
+  "enrollmentDate": {
+    "$date": "2025-03-17T07:21:38.000Z"
+  },
+  "progress": 67.23,
+  "completionDate": null
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb35f"
+  },
+  "enrollmentId": "a7186782-02cc-4ca2-9b5e-d6a39a0e41f1",
+  "studentId": "aff8c2e0-035d-496f-810c-a21b4c4d020a",
+  "courseId": "49dd82df-af24-4d97-934d-df31eb9b5780",
+  "enrollmentDate": {
+    "$date": "2025-06-10T18:05:06.000Z"
+  },
+  "progress": 34.17,
+  "completionDate": {
+    "$date": "2025-01-02T16:01:21.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb360"
+  },
+  "enrollmentId": "bf9e4f69-d3fb-4e1a-8d68-8e47a4c54148",
+  "studentId": "ab3dc4d9-aeb8-4f2e-afdb-c15e8707ebc2",
+  "courseId": "f0c7900f-8c34-4012-957d-cb127305992e",
+  "enrollmentDate": {
+    "$date": "2025-04-07T06:45:03.000Z"
+  },
+  "progress": 96.32,
+  "completionDate": {
+    "$date": "2025-06-08T05:46:49.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb361"
+  },
+  "enrollmentId": "27cb395d-49c7-45f4-b60a-582f6ec8282d",
+  "studentId": "bfbfee02-5ff0-4bbf-ae74-59c524584522",
+  "courseId": "5c3c812d-c2c5-4ad0-a673-e5c42f0c4660",
+  "enrollmentDate": {
+    "$date": "2025-01-04T07:13:31.000Z"
+  },
+  "progress": 30.87,
+  "completionDate": null
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb362"
+  },
+  "enrollmentId": "e0177c15-c51a-4ba7-8f9a-08f6b67860b2",
+  "studentId": "bfbfee02-5ff0-4bbf-ae74-59c524584522",
+  "courseId": "4fcc690c-e684-4da6-b28f-5cba64cfbc9f",
+  "enrollmentDate": {
+    "$date": "2025-02-19T13:14:34.000Z"
+  },
+  "progress": 88.86,
+  "completionDate": {
+    "$date": "2025-02-18T12:13:01.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb363"
+  },
+  "enrollmentId": "5c5859e7-1157-4fca-a4d1-a4d35bc70225",
+  "studentId": "0cfe81a2-61e3-41e7-b228-4f7429c5fb66",
+  "courseId": "5c3c812d-c2c5-4ad0-a673-e5c42f0c4660",
+  "enrollmentDate": {
+    "$date": "2025-02-17T08:04:00.000Z"
+  },
+  "progress": 8.07,
+  "completionDate": {
+    "$date": "2025-01-02T05:06:09.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb364"
+  },
+  "enrollmentId": "89911bf9-8b75-4983-a7f0-47fedea60985",
+  "studentId": "4e7c99f9-02fb-4c23-8897-3d8e0ff618f2",
+  "courseId": "40f22f8f-2850-4fce-9d56-f994afc36a21",
+  "enrollmentDate": {
+    "$date": "2025-03-01T05:34:52.000Z"
+  },
+  "progress": 53.6,
+  "completionDate": {
+    "$date": "2025-04-11T14:57:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf51c4be2c0a4fddb365"
+  },
+  "enrollmentId": "a427287a-6920-4666-8a71-1a8ba6dd3db9",
+  "studentId": "4e7c99f9-02fb-4c23-8897-3d8e0ff618f2",
+  "courseId": "e9f86870-bfba-421e-986d-0ee9bbf15583",
+  "enrollmentDate": {
+    "$date": "2025-02-24T10:07:10.000Z"
+  },
+  "progress": 1.45,
+  "completionDate": null
+}]

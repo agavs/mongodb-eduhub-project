@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "684edf54c4be2c0a4fddb394"
+  },
+  "submissionId": "dc5c038b-aef8-41eb-bc80-526e38a4ae2e",
+  "assignmentId": "526889b8-6105-4eb6-a9dd-90e6589c1fd5",
+  "studentId": "e3ead7e4-2e97-4a05-9036-b05e659a05c8",
+  "submissionDate": {
+    "$date": "2025-06-08T12:00:58.000Z"
+  },
+  "content": "Submitted work for python functions homework.",
+  "grade": 64.59,
+  "feedback": "Good work on build a responsive website, improve Python usage."
+},
+{
+  "_id": {
+    "$oid": "684edf54c4be2c0a4fddb395"
+  },
+  "submissionId": "f4db5c0e-7ffb-40b6-b960-919c3823b5a0",
+  "assignmentId": "b72142a8-f618-465a-b471-f7fc678a086f",
+  "studentId": "abbd36c4-e2ec-4d1f-80fd-40c1dcf6b722",
+  "submissionDate": {
+    "$date": "2025-06-14T12:32:43.000Z"
+  },
+  "content": "Submitted work for mobile app prototype.",
+  "grade": 31.2,
+  "feedback": "Good work on sql query assignment, improve SQL usage."
+},
+{
+  "_id": {
+    "$oid": "684edf54c4be2c0a4fddb396"
+  },
+  "submissionId": "48908742-016a-4d60-b472-c5117fc77dae",
+  "assignmentId": "b72142a8-f618-465a-b471-f7fc678a086f",
+  "studentId": "b1305534-e00a-4a2b-b63d-0e8aa260f846",
+  "submissionDate": {
+    "$date": "2025-06-03T15:18:22.000Z"
+  },
+  "content": "Submitted work for machine learning model project.",
+  "grade": 42.82,
+  "feedback": "Good work on build a responsive website, improve Flutter usage."
+},
+{
+  "_id": {
+    "$oid": "684edf54c4be2c0a4fddb397"
+  },
+  "submissionId": "81c29efc-82fc-4752-8a81-3af619c44197",
+  "assignmentId": "d7431210-8bd7-48de-90be-f7c250f9baaa",
+  "studentId": "11282e66-ba58-4996-9919-64e0ad22e8c8",
+  "submissionDate": {
+    "$date": "2025-06-11T16:55:20.000Z"
+  },
+  "content": "Submitted work for implement sorting algorithms.",
+  "grade": 42.66,
+  "feedback": "Good work on sql query assignment, improve React usage."
+},
+{
+  "_id": {
+    "$oid": "684edf54c4be2c0a4fddb398"
+  },
+  "submissionId": "bcfff645-ad14-497c-bb80-eec03766a694",
+  "assignmentId": "5fecc318-cae4-4227-b347-c2df3ba801ee",
+  "studentId": "aff8c2e0-035d-496f-810c-a21b4c4d020a",
+  "submissionDate": {
+    "$date": "2025-06-10T03:20:19.000Z"
+  },
+  "content": "Submitted work for machine learning model project.",
+  "grade": 8.29,
+  "feedback": "Good work on python functions homework, improve pandas usage."
+},
+{
+  "_id": {
+    "$oid": "684edf54c4be2c0a4fddb399"
+  },
+  "submissionId": "dae9a2d1-096d-4390-8075-5cf57f5901ee",
+  "assignmentId": "526889b8-6105-4eb6-a9dd-90e6589c1fd5",
+  "studentId": "4e7c99f9-02fb-4c23-8897-3d8e0ff618f2",
+  "submissionDate": {
+    "$date": "2025-06-08T13:04:58.000Z"
+  },
+  "content": "Submitted work for business case study.",
+  "grade": 65.28,
+  "feedback": "Good work on machine learning model project, improve Figma usage."
+},
+{
+  "_id": {
+    "$oid": "684edf54c4be2c0a4fddb39a"
+  },
+  "submissionId": "4572ede4-96cb-4647-b7ee-347d555e623f",
+  "assignmentId": "526889b8-6105-4eb6-a9dd-90e6589c1fd5",
+  "studentId": "8a9bd204-c798-45b8-9dfe-3a3a4489c6e6",
+  "submissionDate": {
+    "$date": "2025-06-09T07:00:05.000Z"
+  },
+  "content": "Submitted work for machine learning model project.",
+  "grade": 12.8,
+  "feedback": "Good work on implement sorting algorithms, improve Figma usage."
+},
+{
+  "_id": {
+    "$oid": "684edf54c4be2c0a4fddb39b"
+  },
+  "submissionId": "10da22ee-0725-4cec-b850-5b47dd494fd2",
+  "assignmentId": "240aa97b-7509-4f93-9d4e-f8fff9118f69",
+  "studentId": "11282e66-ba58-4996-9919-64e0ad22e8c8",
+  "submissionDate": {
+    "$date": "2025-06-14T04:50:47.000Z"
+  },
+  "content": "Submitted work for implement sorting algorithms.",
+  "grade": 80.96,
+  "feedback": "Good work on sql query assignment, improve Python usage."
+},
+{
+  "_id": {
+    "$oid": "684edf54c4be2c0a4fddb39c"
+  },
+  "submissionId": "4c9d34e1-7375-4f3c-aff6-bf0c8552b773",
+  "assignmentId": "d7431210-8bd7-48de-90be-f7c250f9baaa",
+  "studentId": "bfbfee02-5ff0-4bbf-ae74-59c524584522",
+  "submissionDate": {
+    "$date": "2025-06-14T21:54:35.000Z"
+  },
+  "content": "Submitted work for business case study.",
+  "grade": 2.63,
+  "feedback": "Good work on python functions homework, improve pandas usage."
+},
+{
+  "_id": {
+    "$oid": "684edf54c4be2c0a4fddb39d"
+  },
+  "submissionId": "581bdbd2-b2e6-4e44-9373-f0213ca64bc1",
+  "assignmentId": "526889b8-6105-4eb6-a9dd-90e6589c1fd5",
+  "studentId": "11282e66-ba58-4996-9919-64e0ad22e8c8",
+  "submissionDate": {
+    "$date": "2025-06-12T05:28:41.000Z"
+  },
+  "content": "Submitted work for business case study.",
+  "grade": 90.81,
+  "feedback": "Good work on sql query assignment, improve SQL usage."
+},
+{
+  "_id": {
+    "$oid": "684edf54c4be2c0a4fddb39e"
+  },
+  "submissionId": "df5a7b10-3989-42f9-9260-46c9f9421a1d",
+  "assignmentId": "e4ac3d10-f4b5-44fa-8a00-6c0c4a0e6b0b",
+  "studentId": "c61cb5bb-d7a8-4bbd-9b31-c527e9dbf422",
+  "submissionDate": {
+    "$date": "2025-06-11T09:45:42.000Z"
+  },
+  "content": "Submitted work for sql query assignment.",
+  "grade": 94.01,
+  "feedback": "Good work on build a responsive website, improve Excel usage."
+},
+{
+  "_id": {
+    "$oid": "684edf54c4be2c0a4fddb39f"
+  },
+  "submissionId": "e1b0b77a-5851-4e29-a3df-c64ad4e3d597",
+  "assignmentId": "b3a0a00a-8059-48bd-b5d7-3289c16264e2",
+  "studentId": "bfbfee02-5ff0-4bbf-ae74-59c524584522",
+  "submissionDate": {
+    "$date": "2025-06-01T05:11:35.000Z"
+  },
+  "content": "Submitted work for mobile app prototype.",
+  "grade": 11.77,
+  "feedback": "Good work on implement sorting algorithms, improve SQL usage."
+}]

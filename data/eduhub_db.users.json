@@ -1,0 +1,470 @@
+[{
+  "_id": {
+    "$oid": "684edf4ec4be2c0a4fddb33b"
+  },
+  "userId": "0cfe81a2-61e3-41e7-b228-4f7429c5fb66",
+  "email": "cantrellamanda@example.org",
+  "firstName": "Deborah",
+  "lastName": "Bishop",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-03T04:44:31.000Z"
+  },
+  "profile": {
+    "bio": "Student interested in Design.",
+    "avatar": "https://picsum.photos/998/69",
+    "skills": [
+      "Data Science",
+      "Programming",
+      "Design"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684edf4ec4be2c0a4fddb33c"
+  },
+  "userId": "b1305534-e00a-4a2b-b63d-0e8aa260f846",
+  "email": "hawkinswilliam@example.net",
+  "firstName": "Scott",
+  "lastName": "Wright",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-03-12T12:08:51.000Z"
+  },
+  "profile": {
+    "bio": "Student interested in Algorithms.",
+    "avatar": "https://picsum.photos/241/704",
+    "skills": [
+      "Databases",
+      "Web Development",
+      "Design"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684edf4ec4be2c0a4fddb33d"
+  },
+  "userId": "c61cb5bb-d7a8-4bbd-9b31-c527e9dbf422",
+  "email": "alicia12@example.net",
+  "firstName": "John",
+  "lastName": "Stephens",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-01-25T09:01:43.000Z"
+  },
+  "profile": {
+    "bio": "Student interested in Programming.",
+    "avatar": "https://placekitten.com/155/217",
+    "skills": [
+      "Programming",
+      "Data Science",
+      "Web Development"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684edf4ec4be2c0a4fddb33e"
+  },
+  "userId": "aff8c2e0-035d-496f-810c-a21b4c4d020a",
+  "email": "ykelly@example.net",
+  "firstName": "Mary",
+  "lastName": "Lindsey",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-04-30T08:23:30.000Z"
+  },
+  "profile": {
+    "bio": "Student interested in Programming.",
+    "avatar": "https://picsum.photos/438/506",
+    "skills": [
+      "Mobile Development",
+      "Business",
+      "Programming"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684edf4ec4be2c0a4fddb33f"
+  },
+  "userId": "310fc880-9f82-46c0-9871-13f57bfb7b1d",
+  "email": "steven16@example.org",
+  "firstName": "Barbara",
+  "lastName": "Gonzalez",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-03-20T14:12:38.000Z"
+  },
+  "profile": {
+    "bio": "Student interested in Data Science.",
+    "avatar": "https://picsum.photos/345/1019",
+    "skills": [
+      "Design",
+      "Mobile Development",
+      "Business"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684edf4ec4be2c0a4fddb340"
+  },
+  "userId": "4e7c99f9-02fb-4c23-8897-3d8e0ff618f2",
+  "email": "cruzmaria@example.com",
+  "firstName": "Julian",
+  "lastName": "Love",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-05-30T14:46:32.000Z"
+  },
+  "profile": {
+    "bio": "Student interested in Web Development.",
+    "avatar": "https://picsum.photos/649/585",
+    "skills": [
+      "Data Science",
+      "Programming",
+      "Design"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684edf4ec4be2c0a4fddb341"
+  },
+  "userId": "ab3dc4d9-aeb8-4f2e-afdb-c15e8707ebc2",
+  "email": "vflores@example.org",
+  "firstName": "Robert",
+  "lastName": "Roy",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-03-30T03:07:23.000Z"
+  },
+  "profile": {
+    "bio": "Student interested in Web Development.",
+    "avatar": "https://dummyimage.com/557x616",
+    "skills": [
+      "Algorithms",
+      "Data Science",
+      "Programming"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684edf4ec4be2c0a4fddb342"
+  },
+  "userId": "40f80683-b71f-4003-9fd3-90be7595f97b",
+  "email": "duncankevin@example.com",
+  "firstName": "Mark",
+  "lastName": "Hunt",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-02-24T07:44:32.000Z"
+  },
+  "profile": {
+    "bio": "Student interested in Databases.",
+    "avatar": "https://dummyimage.com/676x257",
+    "skills": [
+      "Mobile Development",
+      "Databases",
+      "Algorithms"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684edf4ec4be2c0a4fddb343"
+  },
+  "userId": "11282e66-ba58-4996-9919-64e0ad22e8c8",
+  "email": "juanwilliams@example.org",
+  "firstName": "Rebecca",
+  "lastName": "Dawson",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-01-06T17:20:39.000Z"
+  },
+  "profile": {
+    "bio": "Student interested in Web Development.",
+    "avatar": "https://picsum.photos/250/242",
+    "skills": [
+      "Databases",
+      "Design",
+      "Algorithms"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684edf4ec4be2c0a4fddb344"
+  },
+  "userId": "8a9bd204-c798-45b8-9dfe-3a3a4489c6e6",
+  "email": "josephporter@example.net",
+  "firstName": "Jodi",
+  "lastName": "Fields",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-03-09T10:43:48.000Z"
+  },
+  "profile": {
+    "bio": "Student interested in Programming.",
+    "avatar": "https://placekitten.com/142/774",
+    "skills": [
+      "Design",
+      "Web Development",
+      "Data Science"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684edf4ec4be2c0a4fddb345"
+  },
+  "userId": "5ef2d593-7b3f-481a-85b8-af3dfdaee1c7",
+  "email": "joanna84@example.net",
+  "firstName": "Richard",
+  "lastName": "Miller",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-02-22T12:49:25.000Z"
+  },
+  "profile": {
+    "bio": "Student interested in Programming.",
+    "avatar": "https://dummyimage.com/596x327",
+    "skills": [
+      "Algorithms",
+      "Programming",
+      "Mobile Development"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684edf4ec4be2c0a4fddb346"
+  },
+  "userId": "5848c3bc-dbe7-41b5-be98-908cdd9e4f68",
+  "email": "ibrown@example.net",
+  "firstName": "Jessica",
+  "lastName": "Hernandez",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-01-29T04:06:21.000Z"
+  },
+  "profile": {
+    "bio": "Student interested in Algorithms.",
+    "avatar": "https://placekitten.com/560/813",
+    "skills": [
+      "Business",
+      "Design",
+      "Data Science"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684edf4ec4be2c0a4fddb347"
+  },
+  "userId": "bfbfee02-5ff0-4bbf-ae74-59c524584522",
+  "email": "katherinepollard@example.com",
+  "firstName": "Edwin",
+  "lastName": "Santana",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-01-08T23:38:08.000Z"
+  },
+  "profile": {
+    "bio": "Student interested in Mobile Development.",
+    "avatar": "https://placekitten.com/462/403",
+    "skills": [
+      "Mobile Development",
+      "Algorithms",
+      "Data Science"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684edf4ec4be2c0a4fddb348"
+  },
+  "userId": "e3ead7e4-2e97-4a05-9036-b05e659a05c8",
+  "email": "acox@example.com",
+  "firstName": "Robert",
+  "lastName": "Hernandez",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-05-21T23:11:16.000Z"
+  },
+  "profile": {
+    "bio": "Student interested in Business.",
+    "avatar": "https://dummyimage.com/70x657",
+    "skills": [
+      "Business",
+      "Data Science",
+      "Programming"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684edf4ec4be2c0a4fddb349"
+  },
+  "userId": "abbd36c4-e2ec-4d1f-80fd-40c1dcf6b722",
+  "email": "annewelch@example.org",
+  "firstName": "Kelsey",
+  "lastName": "Campbell",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-04-12T09:29:42.000Z"
+  },
+  "profile": {
+    "bio": "Student interested in Web Development.",
+    "avatar": "https://dummyimage.com/861x579",
+    "skills": [
+      "Data Science",
+      "Algorithms",
+      "Web Development"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684edf4ec4be2c0a4fddb34a"
+  },
+  "userId": "ed4da6b1-c927-4704-8851-258aec720560",
+  "email": "rmiller@example.net",
+  "firstName": "Steven",
+  "lastName": "Dean",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-04-22T15:25:17.000Z"
+  },
+  "profile": {
+    "bio": "Instructor specializing in Data Science.",
+    "avatar": "https://placekitten.com/749/841",
+    "skills": [
+      "Business",
+      "Algorithms",
+      "Web Development",
+      "Mobile Development",
+      "Programming"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684edf4ec4be2c0a4fddb34b"
+  },
+  "userId": "b0f9baf0-0906-47e1-bd07-08f7aaa79f3e",
+  "email": "tristan95@example.org",
+  "firstName": "Christopher",
+  "lastName": "Evans",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-01-27T20:04:03.000Z"
+  },
+  "profile": {
+    "bio": "Instructor specializing in Mobile Development.",
+    "avatar": "https://placekitten.com/6/687",
+    "skills": [
+      "Web Development",
+      "Mobile Development",
+      "Design",
+      "Databases",
+      "Algorithms"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684edf4ec4be2c0a4fddb34c"
+  },
+  "userId": "5405adea-63ce-46fa-90c3-343541deba41",
+  "email": "delacruzjeremy@example.net",
+  "firstName": "Christopher",
+  "lastName": "Reyes",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-02-10T09:03:36.000Z"
+  },
+  "profile": {
+    "bio": "Instructor specializing in Databases.",
+    "avatar": "https://picsum.photos/116/1005",
+    "skills": [
+      "Web Development",
+      "Mobile Development",
+      "Design",
+      "Programming",
+      "Algorithms"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684edf4ec4be2c0a4fddb34d"
+  },
+  "userId": "054a81f8-fbd8-466a-bde2-31068cef10fe",
+  "email": "gallegosjames@example.net",
+  "firstName": "Joshua",
+  "lastName": "Hansen",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-03-01T15:35:17.000Z"
+  },
+  "profile": {
+    "bio": "Instructor specializing in Programming.",
+    "avatar": "https://dummyimage.com/287x731",
+    "skills": [
+      "Algorithms",
+      "Databases",
+      "Programming",
+      "Business",
+      "Design"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684edf4ec4be2c0a4fddb34e"
+  },
+  "userId": "4adabed7-0acd-4a56-8043-de3f87895c73",
+  "email": "shawbrian@example.org",
+  "firstName": "Jerome",
+  "lastName": "Day",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-03-06T06:53:28.000Z"
+  },
+  "profile": {
+    "bio": "Instructor specializing in Data Science.",
+    "avatar": "https://placekitten.com/684/1019",
+    "skills": [
+      "Business",
+      "Web Development",
+      "Programming",
+      "Data Science",
+      "Algorithms"
+    ]
+  },
+  "isActive": true
+}]

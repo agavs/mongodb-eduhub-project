@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "684edf53c4be2c0a4fddb384"
+  },
+  "assignmentId": "3c0cf0b8-ce13-43e9-b704-0315a4c3acf8",
+  "courseId": "40f22f8f-2850-4fce-9d56-f994afc36a21",
+  "title": "Python Functions Homework",
+  "description": "Design a algorithm for a client.",
+  "dueDate": {
+    "$date": "2025-06-02T17:49:39.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf53c4be2c0a4fddb385"
+  },
+  "assignmentId": "d7431210-8bd7-48de-90be-f7c250f9baaa",
+  "courseId": "40f22f8f-2850-4fce-9d56-f994afc36a21",
+  "title": "Machine Learning Model Project",
+  "description": "Create a logo based on scikit-learn.",
+  "dueDate": {
+    "$date": "2025-06-01T04:47:02.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf53c4be2c0a4fddb386"
+  },
+  "assignmentId": "b3a0a00a-8059-48bd-b5d7-3289c16264e2",
+  "courseId": "5c3c812d-c2c5-4ad0-a673-e5c42f0c4660",
+  "title": "Python Functions Homework",
+  "description": "Create a web page based on Figma.",
+  "dueDate": {
+    "$date": "2025-06-11T19:27:52.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf53c4be2c0a4fddb387"
+  },
+  "assignmentId": "526889b8-6105-4eb6-a9dd-90e6589c1fd5",
+  "courseId": "5c3c812d-c2c5-4ad0-a673-e5c42f0c4660",
+  "title": "Machine Learning Model Project",
+  "description": "Analyze a dataset using Excel.",
+  "dueDate": {
+    "$date": "2025-06-01T13:19:31.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf53c4be2c0a4fddb388"
+  },
+  "assignmentId": "e4ac3d10-f4b5-44fa-8a00-6c0c4a0e6b0b",
+  "courseId": "e9f86870-bfba-421e-986d-0ee9bbf15583",
+  "title": "Python Functions Homework",
+  "description": "Implement a searching in JavaScript.",
+  "dueDate": {
+    "$date": "2025-06-11T00:35:36.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf53c4be2c0a4fddb389"
+  },
+  "assignmentId": "aa5609cf-a093-4047-9b3b-f99610ac32ad",
+  "courseId": "16d1768b-cb54-4487-9d68-a78db8ae1d8d",
+  "title": "Python Functions Homework",
+  "description": "Implement a sorting in SQL.",
+  "dueDate": {
+    "$date": "2025-06-10T22:09:57.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf53c4be2c0a4fddb38a"
+  },
+  "assignmentId": "28448a6d-1993-4bbc-a757-91acbccb7526",
+  "courseId": "4fcc690c-e684-4da6-b28f-5cba64cfbc9f",
+  "title": "Python Functions Homework",
+  "description": "Write a program to build a responsive website.",
+  "dueDate": {
+    "$date": "2025-06-08T06:08:08.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf53c4be2c0a4fddb38b"
+  },
+  "assignmentId": "d7a7fdaf-7975-4d71-8a91-a07753e740a8",
+  "courseId": "4fcc690c-e684-4da6-b28f-5cba64cfbc9f",
+  "title": "Machine Learning Model Project",
+  "description": "Create a report based on scikit-learn.",
+  "dueDate": {
+    "$date": "2025-06-11T22:25:58.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf53c4be2c0a4fddb38c"
+  },
+  "assignmentId": "76ecf07a-f1b8-4bd9-9052-fa486a61f1e9",
+  "courseId": "4fcc690c-e684-4da6-b28f-5cba64cfbc9f",
+  "title": "Build a Responsive Website",
+  "description": "Design a query set for a client.",
+  "dueDate": {
+    "$date": "2025-06-03T10:28:32.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf53c4be2c0a4fddb38d"
+  },
+  "assignmentId": "240aa97b-7509-4f93-9d4e-f8fff9118f69",
+  "courseId": "d41dced4-a110-410c-b268-c9251716e0c1",
+  "title": "Python Functions Homework",
+  "description": "Solve a business problem using analysis.",
+  "dueDate": {
+    "$date": "2025-06-09T09:43:01.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf53c4be2c0a4fddb38e"
+  },
+  "assignmentId": "5fecc318-cae4-4227-b347-c2df3ba801ee",
+  "courseId": "d41dced4-a110-410c-b268-c9251716e0c1",
+  "title": "Machine Learning Model Project",
+  "description": "Create a logo based on SQL.",
+  "dueDate": {
+    "$date": "2025-06-14T04:36:14.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf53c4be2c0a4fddb38f"
+  },
+  "assignmentId": "90ca3d31-d14b-4a89-908f-30bee73c6728",
+  "courseId": "f0c7900f-8c34-4012-957d-cb127305992e",
+  "title": "Python Functions Homework",
+  "description": "Analyze a dataset using scikit-learn.",
+  "dueDate": {
+    "$date": "2025-06-05T03:52:18.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf53c4be2c0a4fddb390"
+  },
+  "assignmentId": "0a53cf93-12ac-4ab9-b80f-d0d206e0b067",
+  "courseId": "f0c7900f-8c34-4012-957d-cb127305992e",
+  "title": "Machine Learning Model Project",
+  "description": "Create a app interface based on Excel.",
+  "dueDate": {
+    "$date": "2025-06-06T08:07:20.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf53c4be2c0a4fddb391"
+  },
+  "assignmentId": "4f29b7da-ec3c-4ca0-9eae-d94f4f60d65c",
+  "courseId": "f0c7900f-8c34-4012-957d-cb127305992e",
+  "title": "Build a Responsive Website",
+  "description": "Design a algorithm for a client.",
+  "dueDate": {
+    "$date": "2025-06-10T20:53:38.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf53c4be2c0a4fddb392"
+  },
+  "assignmentId": "a455af82-76fc-4fe7-b74b-3777981a8045",
+  "courseId": "49dd82df-af24-4d97-934d-df31eb9b5780",
+  "title": "Python Functions Homework",
+  "description": "Query a database to retrieve user data.",
+  "dueDate": {
+    "$date": "2025-06-12T15:25:30.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684edf53c4be2c0a4fddb393"
+  },
+  "assignmentId": "b72142a8-f618-465a-b471-f7fc678a086f",
+  "courseId": "49dd82df-af24-4d97-934d-df31eb9b5780",
+  "title": "Machine Learning Model Project",
+  "description": "Write a program to sql query assignment.",
+  "dueDate": {
+    "$date": "2025-06-01T11:03:04.000Z"
+  }
+}]

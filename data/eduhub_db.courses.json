@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "684edf4fc4be2c0a4fddb34f"
+  },
+  "courseId": "40f22f8f-2850-4fce-9d56-f994afc36a21",
+  "title": "Introduction to Python Programming",
+  "description": "Learn the fundamentals of introduction to python programming through hands-on projects and expert guidance.",
+  "instructorId": "054a81f8-fbd8-466a-bde2-31068cef10fe",
+  "category": "Programming",
+  "level": "intermediate",
+  "duration": 11,
+  "price": 26.13,
+  "tags": [
+    "Algorithms",
+    "Programming",
+    "Data Science",
+    "Mobile Development"
+  ],
+  "createdAt": {
+    "$date": "2025-06-14T00:43:38.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-27T19:46:30.000Z"
+  },
+  "isPublished": false
+},
+{
+  "_id": {
+    "$oid": "684edf4fc4be2c0a4fddb350"
+  },
+  "courseId": "5c3c812d-c2c5-4ad0-a673-e5c42f0c4660",
+  "title": "Advanced Machine Learning",
+  "description": "Learn the fundamentals of advanced machine learning through hands-on projects and expert guidance.",
+  "instructorId": "054a81f8-fbd8-466a-bde2-31068cef10fe",
+  "category": "Data Science",
+  "level": "beginner",
+  "duration": 9,
+  "price": 12.71,
+  "tags": [
+    "Web Development",
+    "Business",
+    "Design",
+    "Databases"
+  ],
+  "createdAt": {
+    "$date": "2025-05-27T14:09:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-09T18:47:13.000Z"
+  },
+  "isPublished": false
+},
+{
+  "_id": {
+    "$oid": "684edf4fc4be2c0a4fddb351"
+  },
+  "courseId": "e9f86870-bfba-421e-986d-0ee9bbf15583",
+  "title": "Web Development with JavaScript",
+  "description": "Learn the fundamentals of web development with javascript through hands-on projects and expert guidance.",
+  "instructorId": "b0f9baf0-0906-47e1-bd07-08f7aaa79f3e",
+  "category": "Web Development",
+  "level": "intermediate",
+  "duration": 29,
+  "price": 68.46,
+  "tags": [
+    "Programming",
+    "Web Development",
+    "Algorithms",
+    "Business"
+  ],
+  "createdAt": {
+    "$date": "2025-06-04T07:26:54.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-12T10:21:11.000Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "684edf4fc4be2c0a4fddb352"
+  },
+  "courseId": "16d1768b-cb54-4487-9d68-a78db8ae1d8d",
+  "title": "Data Structures and Algorithms",
+  "description": "Learn the fundamentals of data structures and algorithms through hands-on projects and expert guidance.",
+  "instructorId": "054a81f8-fbd8-466a-bde2-31068cef10fe",
+  "category": "Algorithms",
+  "level": "intermediate",
+  "duration": 26,
+  "price": 75.31,
+  "tags": [
+    "Mobile Development",
+    "Business",
+    "Design",
+    "Web Development"
+  ],
+  "createdAt": {
+    "$date": "2025-01-02T17:02:36.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-15T19:24:41.000Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "684edf4fc4be2c0a4fddb353"
+  },
+  "courseId": "4fcc690c-e684-4da6-b28f-5cba64cfbc9f",
+  "title": "Graphic Design Fundamentals",
+  "description": "Learn the fundamentals of graphic design fundamentals through hands-on projects and expert guidance.",
+  "instructorId": "5405adea-63ce-46fa-90c3-343541deba41",
+  "category": "Design",
+  "level": "intermediate",
+  "duration": 46,
+  "price": 47.24,
+  "tags": [
+    "Algorithms",
+    "Databases",
+    "Design",
+    "Data Science"
+  ],
+  "createdAt": {
+    "$date": "2025-05-01T13:35:48.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-16T17:41:40.000Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "684edf4fc4be2c0a4fddb354"
+  },
+  "courseId": "d41dced4-a110-410c-b268-c9251716e0c1",
+  "title": "Business Analytics",
+  "description": "Learn the fundamentals of business analytics through hands-on projects and expert guidance.",
+  "instructorId": "5405adea-63ce-46fa-90c3-343541deba41",
+  "category": "Business",
+  "level": "advanced",
+  "duration": 23,
+  "price": 87.97,
+  "tags": [
+    "Data Science",
+    "Databases",
+    "Algorithms",
+    "Web Development"
+  ],
+  "createdAt": {
+    "$date": "2025-01-23T06:21:43.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-03T11:41:03.000Z"
+  },
+  "isPublished": false
+},
+{
+  "_id": {
+    "$oid": "684edf4fc4be2c0a4fddb355"
+  },
+  "courseId": "f0c7900f-8c34-4012-957d-cb127305992e",
+  "title": "Database Management Systems",
+  "description": "Learn the fundamentals of database management systems through hands-on projects and expert guidance.",
+  "instructorId": "b0f9baf0-0906-47e1-bd07-08f7aaa79f3e",
+  "category": "Databases",
+  "level": "beginner",
+  "duration": 33,
+  "price": 5.19,
+  "tags": [
+    "Data Science",
+    "Databases",
+    "Algorithms",
+    "Business"
+  ],
+  "createdAt": {
+    "$date": "2025-02-10T17:46:52.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-12T06:25:36.000Z"
+  },
+  "isPublished": false
+},
+{
+  "_id": {
+    "$oid": "684edf4fc4be2c0a4fddb356"
+  },
+  "courseId": "49dd82df-af24-4d97-934d-df31eb9b5780",
+  "title": "Mobile App Development",
+  "description": "Learn the fundamentals of mobile app development through hands-on projects and expert guidance.",
+  "instructorId": "054a81f8-fbd8-466a-bde2-31068cef10fe",
+  "category": "Mobile Development",
+  "level": "intermediate",
+  "duration": 23,
+  "price": 17.98,
+  "tags": [
+    "Algorithms",
+    "Web Development",
+    "Programming",
+    "Business"
+  ],
+  "createdAt": {
+    "$date": "2025-03-25T23:30:19.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-18T19:48:06.000Z"
+  },
+  "isPublished": false
+}]
